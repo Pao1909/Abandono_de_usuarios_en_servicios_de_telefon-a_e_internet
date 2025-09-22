@@ -49,6 +49,11 @@ En cada archivo, la columna `customerID` (ID de cliente) contiene un código ún
 - matplotlib
 - seaborn
 - functools
+- Scikit-learn
+- SciPy
+- lightgbm
+- xgboost
+- catboost
 
 ## ⚖️ Licencia
 Este proyecto está bajo la licencia Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0). Eres libre de usar, compartir y adaptar este trabajo para fines no comerciales, siempre que se dé el crédito adecuado. Para más detalles, consulta el archivo [LICENCIA](LICENCIA.txt) o visita [Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/).
